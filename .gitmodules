@@ -1,0 +1,3 @@
+[submodule "tireProfileShower"]
+	path = tireProfileShower
+	url = https://github.com/darkerone/tireProfileShower.git
